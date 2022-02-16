@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import csv
 
-
+# this is a test for the git hub training course"
 #from mpl_toolkits.basemap import Basemap
 # setting parameters for title and axes
 font = {'family' : 'verdana',
